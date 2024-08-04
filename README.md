@@ -47,7 +47,7 @@
 
 ## Stats
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo-Bruggmann&show_icons=true)
-![GitHub repo count](https://img.shields.io/github/repos/SEU_USUARIO?style=for-the-badge)
+![GitHub repo count](https://img.shields.io/github/repos/Eduardo-Bruggmann?style=for-the-badge)
 
 <!---
 Eduardo-Bruggmann/Eduardo-Bruggmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
