@@ -1,4 +1,4 @@
-- **_👋 Hi, I’m @Eduardo-Bruggmann (Blazz)_**
+##- **_👋 Hi, I’m @Eduardo-Bruggmann (Blazz)_**
 
 ## About Me
 - 👀 I’m interested in ...
@@ -8,6 +8,13 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 21/07/2009
 - 🔭 I’m currently working on Knowledge (https://github.com/Eduardo-Bruggmann/knowledge)
+
+## Hobbies
+
+- 🏓 Table Tennis
+- 📚 Reading
+- 🎬 Watching Movies and Series
+- 🎧 Listening to Music
 
 ## Skills
 - *Programming Languages:*
@@ -30,12 +37,18 @@
 - *Back-end:*
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Hobbies
+## Interests
 
-- 🏓 Table Tennis
-- 📚 Reading
-- 🎬 Watching Movies and Series
-- 🎧 Listening to Music
+- 🌐 Web Development (Front-end and Back-end)
+- 📱 Mobile App Development
+- 🧠 Artificial Intelligence and Machine Learning
+- ☁️ Cloud Computing
+- 📊 Data Science
+- 🔒 Information Security
+- 🕹 Game Development
+- 🎨 User Interface (UI/UX) Design
+- 📚 Reading Technology and Programming Books
+- 🚀 Participating in Hackathons and Open Source Projects
 
 ## Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Bruggmann&show_icons=true)
