@@ -1,4 +1,4 @@
-##- **_👋 Hi, I’m @Eduardo-Bruggmann (Blazz)_**
+## **_👋 Hi, I’m @Eduardo-Bruggmann (Blazz)_**
 
 ## About Me
 - 👀 I’m interested in ...
