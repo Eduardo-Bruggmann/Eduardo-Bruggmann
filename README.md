@@ -1,7 +1,7 @@
 ## **_👋 Hi, I’m @Eduardo-Bruggmann (Blazz)_**
 
 ### About Me
----
+--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on a project with friends
