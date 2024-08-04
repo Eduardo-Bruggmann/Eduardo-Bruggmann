@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on a project with friends
 - 📫 How to reach me: du.dudu.edu.5.ea@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 21/07/2009 ![Brazil Flag](https://example.com/path/to/brazil-flag.png)
+- ⚡ Fun fact: 21/07/2009
 - 🔭 I’m currently working on Knowledge (https://github.com/Eduardo-Bruggmann/knowledge)
 
 ### Hobbies
