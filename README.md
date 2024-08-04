@@ -5,8 +5,7 @@
 - 📫 How to reach me: du.dudu.edu.5.ea@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
-- ![GitHub followers](https://img.shields.io/github/followers/Eduardo-Bruggmann?style=social)
-- ![GitHub User's stars](https://img.shields.io/github/stars/Eduardo-Bruggmann?style=social)
+- ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Eduardo-Bruggmann&show_icons=true)
 
 <!---
 Eduardo-Bruggmann/Eduardo-Bruggmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
