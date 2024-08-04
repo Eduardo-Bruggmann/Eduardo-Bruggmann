@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on a project with friends
 - 📫 How to reach me: du.dudu.edu.5.ea@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 21/07/2009
 - 🔭 Atualmente estou trabalhando em [projeto]
 
 ## Skills
@@ -30,6 +30,12 @@
 - *Back-end:*
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
+## Hobbies
+
+- 🏓 Tênis de Mesa 
+- 📚 Ler
+- 🎬 Assistir Filmes e Séries
+- 🎧 Ouvir Música
 
 ## GitHub Original
 - 👀 I’m interested in ...
