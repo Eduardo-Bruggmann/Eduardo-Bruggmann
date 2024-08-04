@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 - ![GitHub followers](https://img.shields.io/github/followers/Eduardo-Bruggmann?style=social)
+- ![GitHub User's stars](https://img.shields.io/github/stars/Eduardo-Bruggmann?style=social)
 
 <!---
 Eduardo-Bruggmann/Eduardo-Bruggmann is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
