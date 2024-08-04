@@ -9,14 +9,14 @@
 - ⚡ Fun fact: 21/07/2009
 - 🔭 I’m currently working on Knowledge (https://github.com/Eduardo-Bruggmann/knowledge)
 
-## Hobbies
+### Hobbies
 
 - 🏓 Table Tennis
 - 📚 Reading
 - 🎬 Watching Movies and Series
 - 🎧 Listening to Music
 
-## Skills
+### Skills
 - *Programming Languages:*
   ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -37,7 +37,7 @@
 - *Back-end:*
   ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## Interests
+### Interests
 
 - 🌐 Web Development (Front-end and Back-end)
 - 📱 Mobile App Development
@@ -50,7 +50,7 @@
 - 📚 Reading Technology and Programming Books
 - 🚀 Participating in Hackathons and Open Source Projects
 
-## Stats
+### Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eduardo-Bruggmann&show_icons=true)
 
 <!---
