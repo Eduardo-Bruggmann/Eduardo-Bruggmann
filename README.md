@@ -1,83 +1,147 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hello%2C+World!+Eu+sou+o+Eduardo+Bruggmann+%F0%9F%91%8B" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=750&height=60&lines=Hello%2C+World!+Eu+sou+o+Eduardo+Bruggmann+%F0%9F%91%8B" alt="Apresentação de Eduardo Bruggmann" />
+
+### Desenvolvedor Web Full Stack
+
+Construindo aplicações, explorando novas tecnologias e tentando deixar o código um pouco melhor do que encontrei.
+
+<img src="https://komarev.com/ghpvc/?username=Eduardo-Bruggmann&style=flat-square&color=58A6FF&label=Visualizações+do+perfil" alt="Visualizações do perfil" />
 
 </div>
 
-<p align="center">
-  <em>Estudante de <strong>Técnico em Informática para Internet</strong> no SENAI · ~2 anos aprendendo sobre desenvolvimento de software</em>
-</p>
+<br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/eduardo-bruggmann"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <a href="https://wa.me/554789081568"><img src="https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>&nbsp;
-  <a href="mailto:eduardo_bruggmann150@estudante.sesisenai.org.br"><img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
-  <a href="https://open.spotify.com/user/ld0rsl5m8t9vqyufh7q1czcpn?si=UOLSQNxlSduwbq5lNQ-rJw"><img src="https://img.shields.io/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" /></a>
-</p>
+## Sobre
 
----
+Atuo com desenvolvimento web full stack, participando da construção de sistemas desde a definição das regras e da arquitetura até a implementação da interface, do backend e da persistência de dados.
 
-### 🧑‍💻 &nbsp;Sobre mim
+Tenho maior familiaridade com o ecossistema JavaScript, mas procuro escolher as ferramentas conforme o problema. Também trabalho ativamente com PHP e continuo aprofundando meus conhecimentos em arquitetura de software, algoritmos, testes e desenvolvimento de aplicações mais consistentes.
 
-Tenho interesse em acompanhar todo o ciclo de um sistema — desde a concepção da ideia e a definição da lógica até a implementação e funcionamento em produção. Comecei a estudar por curiosidade, desenvolvi afinidade com a área e hoje vejo o desenvolvimento de software como minha principal direção profissional.
+Atualmente, meu principal projeto é o **AulaGrid**, uma aplicação para gerenciamento e alocação automática de professores, desenvolvida com Laravel.
 
-- 🎓 &nbsp;Cursando **Técnico em Informática para Internet** — SENAI
-- 💡 &nbsp;Maior domínio em **JavaScript** e seus frameworks para web
-- ☕ &nbsp;Experiência prévia com **Java** e atualmente expandindo conhecimentos em **Python**
-- 🎯 &nbsp;Buscando **estágio ou posição júnior** para aplicar conhecimentos e crescer profissionalmente
+<br>
 
----
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
-### 🛠️ &nbsp;Tech Stack
+### No código
+
+* Aplicações web full stack
+* APIs REST e regras de negócio
+* Modelagem e persistência de dados
+* Arquitetura e organização de projetos
+* Interfaces responsivas
+* Git e versionamento
+
+    </td>
+    <td width="50%" valign="top">
+
+### Em evolução
+
+* Arquitetura de software
+* Boas práticas de backend
+* Performance e escalabilidade
+* Testes automatizados
+* Python
+* Documentação
+
+    </td>
+  </tr>
+
+</table>
+
+<br>
+
+## Tecnologias
 
 <div align="center">
-<div align="center">
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+### Linguagens
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge\&logo=tailwindcss\&logoColor=white)
+![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### Backend e dados
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge\&logo=laravel\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge\&logo=vite\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 
 </div>
-</div>
 
----
+<br>
 
-### 🚀 &nbsp;Projetos em destaque
+## Projeto em destaque
 
-<p align="left">
-  <a href="https://github.com/Eduardo-Bruggmann/emergent">- Emergent</a> 
-  <br/>
-  <a href="https://github.com/Eduardo-Bruggmann/ccli">- CCLI</a>
-</p>
+### [AulaGrid](https://github.com/Eduardo-Bruggmann/aula-grid)
 
-> 🔹 Apps **full-stack** integrando APIs REST e bancos de dados
+Sistema web para gerenciamento e alocação automática de professores em turmas.
 
-> 🔹 Projetos **frontend** com JavaScript / React
+O projeto considera especialidades, disponibilidade semanal, unidades curriculares, limites de carga horária, conflitos de alocação e cobertura das turmas. Sua estrutura separa as regras de negócio em serviços e casos de uso.
 
-> 🔹 **Sistemas** em Java
+**Principais recursos:**
 
----
+* Gerenciamento de professores, turmas, unidades, disciplinas e especialidades
+* Registro da disponibilidade semanal dos professores
+* Motor heurístico para geração automática de alocações
+* Identificação de conflitos e sugestões de resolução
+* Histórico de execuções
+* Dashboard, indicadores e relatórios
+* Testes automatizados das principais funcionalidades
 
-### � &nbsp;Contribution Graph
+**Tecnologias:** Laravel, PHP, Blade, Tailwind CSS, PostgreSQL e Vite.
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Bruggmann&theme=github-dark&hide_border=true&area=true" />
-</div>
+<br>
 
----
-
-### 📊 &nbsp;GitHub Stats
+## Atividade
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Eduardo-Bruggmann&theme=github-dark-blue&hide_border=true&locale=pt_BR" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eduardo-Bruggmann&theme=github-dark&hide_border=true&area=true&custom_title=Contribuições%20recentes" alt="Gráfico de contribuições" />
+
+</div>
+
+<br>
+
+## Estatísticas
+
+<div align="center">
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Eduardo-Bruggmann&theme=github-dark-blue&hide_border=true&locale=pt_BR&border_radius=8" alt="Sequência de contribuições" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>
+  “Talk is cheap. Show me the code.”<br>
+  — Linus Torvalds
+</sub>
+
 </div>
