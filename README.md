@@ -22,7 +22,7 @@ Atualmente, meu principal projeto é o **AulaGrid**, uma aplicação para gerenc
 
 <br>
 
-<table>
+<table align="center">
   <tr>
     <td width="50%" valign="top">
 
